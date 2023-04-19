@@ -1,4 +1,4 @@
-FROM ubuntu:rolling
+FROM ubuntu:22.10
 
 ENV TARGET aarch64-linux-gnu
 ENV TARGETNAME linux.aarch64
