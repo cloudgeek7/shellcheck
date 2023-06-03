@@ -19,7 +19,7 @@
 #     with cross-compilation, similar to what the aarch64 build does.
 #
 
-FROM ubuntu:rolling
+FROM ubuntu:23.04
 
 ENV TARGETNAME linux.armv6hf
 
